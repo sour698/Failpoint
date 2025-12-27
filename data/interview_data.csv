@@ -1,0 +1,366 @@
+resume_text,jd_text,self_reflection,technical_score,communication_score,failure_reason
+Python ML basics,Java SQL Spring,I did not know SQL joins and queries,42,60,Skill_Mismatch
+Python ML projects,Java SQL,I was unfamiliar with database concepts,40,58,Skill_Mismatch
+Data analysis Python,Java Backend,I lacked Java backend experience,45,62,Skill_Mismatch
+Machine learning basics,Java Spring Boot,I had no experience with Spring framework,43,61,Skill_Mismatch
+Python Pandas NumPy,Java SQL,I could not answer SQL normalization questions,41,59,Skill_Mismatch
+ML beginner projects,Java Backend,I did not know REST APIs in Java,44,60,Skill_Mismatch
+Python scripting,Java OOP,I was not confident with Java OOP concepts,46,63,Skill_Mismatch
+ML fundamentals,Java SQL,I struggled with SQL joins and indexing,39,57,Skill_Mismatch
+Python ML basics,Java Enterprise,I lacked enterprise Java exposure,47,64,Skill_Mismatch
+Data science Python,Java Backend,I was not prepared for Java backend questions,42,61,Skill_Mismatch
+Python ML projects,Java SQL Spring,I could not explain Spring Boot architecture,43,60,Skill_Mismatch
+Python ML basics,Java SQL,I did not know stored procedures,41,59,Skill_Mismatch
+Data analysis Python,Java Backend,I lacked experience in Java backend systems,44,62,Skill_Mismatch
+Machine learning basics,Java Spring,I was unfamiliar with Spring annotations,40,58,Skill_Mismatch
+Python Pandas,Java SQL,I could not answer complex SQL queries,42,60,Skill_Mismatch
+ML beginner projects,Java Backend,I did not understand Java frameworks,45,63,Skill_Mismatch
+Python scripting,Java OOP,I struggled with Java inheritance concepts,43,61,Skill_Mismatch
+ML fundamentals,Java SQL,I lacked SQL optimization knowledge,41,59,Skill_Mismatch
+Python ML basics,Java Enterprise,I was not confident with enterprise Java,46,64,Skill_Mismatch
+Data science Python,Java Backend,I did not know Java backend design,44,62,Skill_Mismatch
+Python ML projects,Java SQL Spring,I failed to answer Spring dependency injection,42,60,Skill_Mismatch
+Python ML basics,Java SQL,I was unfamiliar with SQL triggers,40,58,Skill_Mismatch
+Data analysis Python,Java Backend,I lacked backend development exposure,45,63,Skill_Mismatch
+Machine learning basics,Java Spring Boot,I did not know Spring Boot lifecycle,43,61,Skill_Mismatch
+Python Pandas NumPy,Java SQL,I struggled with SQL joins syntax,41,59,Skill_Mismatch
+Python ML projects,Java Backend,I could not explain RESTful services in Java,44,62,Skill_Mismatch
+Python scripting,Java OOP,I was not strong in Java polymorphism,42,60,Skill_Mismatch
+ML fundamentals,Java SQL,I did not understand SQL indexing,40,58,Skill_Mismatch
+Python ML basics,Java Enterprise,I lacked experience with Java enterprise apps,46,64,Skill_Mismatch
+Data science Python,Java Backend,I could not answer Java backend architecture questions,44,62,Skill_Mismatch
+Python ML projects,Java SQL Spring,I was unfamiliar with Spring MVC,43,61,Skill_Mismatch
+Python ML basics,Java SQL,I did not know SQL subqueries,41,59,Skill_Mismatch
+Data analysis Python,Java Backend,I lacked Java API development knowledge,45,63,Skill_Mismatch
+Machine learning basics,Java Spring,I could not explain Spring configuration,42,60,Skill_Mismatch
+Python Pandas,Java SQL,I struggled with SQL aggregate functions,40,58,Skill_Mismatch
+ML beginner projects,Java Backend,I did not know Java web services,44,62,Skill_Mismatch
+Python scripting,Java OOP,I was weak in Java interfaces,43,61,Skill_Mismatch
+ML fundamentals,Java SQL,I did not understand SQL joins types,41,59,Skill_Mismatch
+Python ML basics,Java Enterprise,I lacked Java enterprise project experience,46,64,Skill_Mismatch
+Data science Python,Java Backend,I could not answer Java backend scalability questions,44,62,Skill_Mismatch
+Python ML projects,Java SQL Spring,I was not comfortable with Spring Security,42,60,Skill_Mismatch
+Python ML basics,Java SQL,I did not know SQL views,40,58,Skill_Mismatch
+Data analysis Python,Java Backend,I lacked Java server-side knowledge,45,63,Skill_Mismatch
+Machine learning basics,Java Spring Boot,I could not explain Spring Boot starters,43,61,Skill_Mismatch
+Python Pandas NumPy,Java SQL,I struggled with SQL joins performance,41,59,Skill_Mismatch
+Python ML projects,Java Backend,I did not know Java microservices,44,62,Skill_Mismatch
+Python scripting,Java OOP,I was not confident in Java abstraction,42,60,Skill_Mismatch
+ML fundamentals,Java SQL,I lacked SQL query optimization skills,40,58,Skill_Mismatch
+Python ML basics,Java Enterprise,I did not have enterprise Java exposure,46,64,Skill_Mismatch
+Python ML projects,Python ML,I could not explain overfitting and underfitting,38,55,Weak_Fundamentals
+Python ML basics,Python ML,I struggled with basic ML algorithms,36,54,Weak_Fundamentals
+Data science Python,Python ML,I did not understand bias variance tradeoff,37,56,Weak_Fundamentals
+Machine learning projects,Python ML,I failed to explain logistic regression,35,53,Weak_Fundamentals
+Python ML fundamentals,Python ML,I was confused about gradient descent,34,52,Weak_Fundamentals
+ML beginner projects,Python ML,I lacked understanding of model evaluation metrics,39,57,Weak_Fundamentals
+Python ML basics,Python ML,I could not explain cross validation,36,54,Weak_Fundamentals
+Data analysis Python,Python ML,I struggled with feature selection concepts,37,55,Weak_Fundamentals
+Machine learning basics,Python ML,I did not understand regularization,35,53,Weak_Fundamentals
+Python ML projects,Python ML,I was weak in probability concepts,38,56,Weak_Fundamentals
+Python ML basics,Python ML,I failed to explain decision trees,36,54,Weak_Fundamentals
+Data science Python,Python ML,I did not know how random forest works,37,55,Weak_Fundamentals
+Machine learning projects,Python ML,I struggled with neural network basics,34,52,Weak_Fundamentals
+Python ML fundamentals,Python ML,I lacked clarity on loss functions,35,53,Weak_Fundamentals
+ML beginner projects,Python ML,I could not explain confusion matrix,39,57,Weak_Fundamentals
+Python ML basics,Python ML,I was confused about precision and recall,36,54,Weak_Fundamentals
+Data analysis Python,Python ML,I struggled with scaling and normalization,37,55,Weak_Fundamentals
+Machine learning basics,Python ML,I did not understand ensemble methods,35,53,Weak_Fundamentals
+Python ML projects,Python ML,I lacked understanding of SVM,38,56,Weak_Fundamentals
+Python ML basics,Python ML,I failed to explain Naive Bayes,36,54,Weak_Fundamentals
+Java DSA projects,Java DSA,I was very nervous and could not explain properly,70,30,Communication_Issue
+Python ML projects,Python ML,I panicked during explanation,68,28,Communication_Issue
+Web development React,React,I could not communicate my thoughts clearly,72,32,Communication_Issue
+Java backend projects,Java Backend,I was nervous and spoke unclearly,69,29,Communication_Issue
+Python projects,Python,I struggled to express my answers,71,31,Communication_Issue
+DSA practice,DSA,I lost confidence while speaking,73,33,Communication_Issue
+ML projects,Machine Learning,I was hesitant and unclear in communication,70,30,Communication_Issue
+Web dev projects,Web Development,I could not articulate my approach,68,28,Communication_Issue
+Java projects,Java,I was anxious and communication suffered,72,32,Communication_Issue
+Python ML projects,Python ML,I could not explain confidently,69,29,Communication_Issue
+Java DSA projects,Java DSA,I spoke too fast and unclear,71,31,Communication_Issue
+Python ML projects,Python ML,I lacked clarity in explanations,70,30,Communication_Issue
+Web development React,React,I was nervous while answering questions,72,32,Communication_Issue
+Java backend projects,Java Backend,I could not structure my answers well,69,29,Communication_Issue
+Python projects,Python,I was anxious during the interview,71,31,Communication_Issue
+DSA practice,DSA,I struggled to explain logic clearly,73,33,Communication_Issue
+ML projects,Machine Learning,I was not confident in communication,70,30,Communication_Issue
+Web dev projects,Web Development,I had difficulty expressing ideas,68,28,Communication_Issue
+Java projects,Java,I was nervous and unclear,72,32,Communication_Issue
+Python ML projects,Python ML,I could not speak confidently,69,29,Communication_Issue
+Web development React,React Node,I could not explain my project deeply,68,60,Project_Depth_Issue
+Java backend projects,Java Backend,I explained my project only at surface level,66,58,Project_Depth_Issue
+Python ML projects,Python ML,I could not explain internal working of my project,67,59,Project_Depth_Issue
+Data science project,Python ML,I lacked depth in project explanation,65,57,Project_Depth_Issue
+Web dev full stack,Full Stack,I could not explain architecture properly,69,61,Project_Depth_Issue
+Java projects,Java,I failed to explain design decisions,66,58,Project_Depth_Issue
+Python ML capstone,Python ML,I did not know project limitations,67,59,Project_Depth_Issue
+React projects,React,I could not explain component structure deeply,65,57,Project_Depth_Issue
+Backend API project,Backend,I struggled with explaining project flow,69,61,Project_Depth_Issue
+ML application project,Machine Learning,I lacked understanding of project internals,66,58,Project_Depth_Issue
+Python Django Web Dev,Java Spring Boot,I had no Spring Boot experience,44,65,Skill_Mismatch
+ML with TensorFlow,Java Microservices,I did not know microservice patterns,43,64,Skill_Mismatch
+Python Flask API,Java EE,I lacked enterprise Java knowledge,42,63,Skill_Mismatch
+Data Engineering Python,Java Backend,I could not answer Java concurrency questions,45,66,Skill_Mismatch
+AI Research Python,Java Hibernate,I was unfamiliar with ORM concepts,41,62,Skill_Mismatch
+Computer Vision Basics,Java Web Services,I did not understand SOAP vs REST,44,65,Skill_Mismatch
+NLP with Python,Java JPA,I lacked JPA knowledge,43,64,Skill_Mismatch
+Deep Learning PyTorch,Java Spring Cloud,I was unfamiliar with cloud patterns,42,63,Skill_Mismatch
+Statistical Analysis R,Java Maven,I could not explain build tools,45,66,Skill_Mismatch
+Time Series Analysis,Java Jenkins,I lacked CI/CD knowledge,41,62,Skill_Mismatch
+Python Automation,Java Docker,I did not know containerization,44,65,Skill_Mismatch
+ML Ops Basics,Java Kubernetes,I was unfamiliar with orchestration,43,64,Skill_Mismatch
+Big Data Spark,Java Spring Batch,I lacked batch processing knowledge,42,63,Skill_Mismatch
+Recommender Systems,Java Kafka,I did not understand messaging systems,45,66,Skill_Mismatch
+ML Deployment,Java AWS,I lacked cloud experience,41,62,Skill_Mismatch
+Python Data Viz,Java GraphQL,I was unfamiliar with GraphQL,44,65,Skill_Mismatch
+ML Research,Java Redis,I did not know caching strategies,43,64,Skill_Mismatch
+Python ETL,Java Elasticsearch,I lacked search engine knowledge,42,63,Skill_Mismatch
+Neural Networks,Java Spring Security,I was unfamiliar with auth mechanisms,45,66,Skill_Mismatch
+Reinforcement Learning,Java OAuth,I did not understand OAuth flow,41,62,Skill_Mismatch
+Python Scikit-learn,Java SQL,I struggled with advanced SQL queries,38,55,Weak_Fundamentals
+ML Algorithms,Python ML,I could not explain backpropagation,36,53,Weak_Fundamentals
+Data Mining,Python ML,I did not understand clustering algorithms,37,54,Weak_Fundamentals
+Predictive Modeling,Python ML,I failed to explain linear regression assumptions,35,52,Weak_Fundamentals
+Feature Engineering,Python ML,I was confused about PCA,34,51,Weak_Fundamentals
+Model Deployment,Python ML,I lacked understanding of A/B testing,39,56,Weak_Fundamentals
+ML Pipeline,Python ML,I could not explain hyperparameter tuning,36,53,Weak_Fundamentals
+Statistical ML,Python ML,I struggled with hypothesis testing,37,54,Weak_Fundamentals
+Deep Learning Basics,Python ML,I did not understand activation functions,35,52,Weak_Fundamentals
+ML Theory,Python ML,I was weak in calculus concepts,38,55,Weak_Fundamentals
+Python for AI,Python ML,I failed to explain bias in ML,36,53,Weak_Fundamentals
+Data Prep,Python ML,I did not know data cleaning techniques,37,54,Weak_Fundamentals
+ML Ethics,Python ML,I struggled with fairness metrics,34,51,Weak_Fundamentals
+ML Interpretability,Python ML,I lacked SHAP/LIME knowledge,35,52,Weak_Fundamentals
+Production ML,Python ML,I could not explain model monitoring,39,56,Weak_Fundamentals
+ML Scaling,Python ML,I was confused about distributed ML,36,53,Weak_Fundamentals
+Time Series ML,Python ML,I struggled with ARIMA models,37,54,Weak_Fundamentals
+Anomaly Detection,Python ML,I did not understand isolation forest,35,52,Weak_Fundamentals
+Computer Vision ML,Python ML,I lacked CNN architecture knowledge,38,55,Weak_Fundamentals
+NLP ML,Python ML,I failed to explain transformers,36,53,Weak_Fundamentals
+Frontend React,Vue.js,I was nervous presenting my portfolio,68,29,Communication_Issue
+Backend Node.js,Python Django,I panicked during technical discussion,67,28,Communication_Issue
+Full Stack MERN,.NET Core,I could not explain architecture decisions,69,30,Communication_Issue
+Mobile React Native,iOS Swift,I was anxious about platform differences,70,31,Communication_Issue
+DevOps AWS,Kubernetes,I struggled with explaining deployments,66,27,Communication_Issue
+UI/UX Design,Frontend Dev,I could not articulate design choices,68,29,Communication_Issue
+Data Engineering,Data Science,I was nervous about statistical questions,67,28,Communication_Issue
+Cloud Architect,AWS Solutions,I lost confidence during scenario questions,69,30,Communication_Issue
+Security Engineering,Cybersecurity,I spoke too fast when explaining concepts,70,31,Communication_Issue
+QA Automation,Testing,I could not structure my answers properly,66,27,Communication_Issue
+IoT Project,Embedded Systems,I was hesitant explaining hardware integration,68,29,Communication_Issue
+Blockchain Dev,Smart Contracts,I panicked during code review,67,28,Communication_Issue
+Game Development,Unity,I could not explain game mechanics clearly,69,30,Communication_Issue
+AR/VR Projects,Mixed Reality,I was anxious about performance questions,70,31,Communication_Issue
+Robotics Programming,AI Integration,I struggled with algorithm explanation,66,27,Communication_Issue
+Digital Marketing,Tech Product,I could not communicate metrics effectively,68,29,Communication_Issue
+Product Management,Technical PM,I was nervous during stakeholder questions,67,28,Communication_Issue
+FinTech Development,Finance Domain,I lost confidence with finance terms,69,30,Communication_Issue
+HealthTech,Medical Software,I spoke unclearly about regulations,70,31,Communication_Issue
+EdTech Platform,Education Software,I could not explain pedagogy integration,66,27,Communication_Issue
+E-commerce Website,React Commerce,I explained only basic features,65,58,Project_Depth_Issue
+Social Media App,Full Stack,I lacked depth in scaling discussion,66,59,Project_Depth_Issue
+ML Research Paper,AI Research,I could not explain methodology details,64,57,Project_Depth_Issue
+Real-time Chat App,WebSockets,I failed to explain protocol details,67,60,Project_Depth_Issue
+Dashboard Project,Data Visualization,I did not know design rationale,65,58,Project_Depth_Issue
+API Gateway,Microservices,I could not explain routing strategies,66,59,Project_Depth_Issue
+Mobile Game,iOS Development,I lacked depth in performance optimization,64,57,Project_Depth_Issue
+Analytics Platform,Big Data,I failed to explain data pipeline,67,60,Project_Depth_Issue
+Payment System,FinTech,I could not explain security measures,65,58,Project_Depth_Issue
+IoT Platform,Cloud IoT,I lacked architecture depth,66,59,Project_Depth_Issue
+Python Flask Backend,Java Spring Boot,I had no dependency injection knowledge,44,65,Skill_Mismatch
+React Frontend Dev,Angular Framework,I was unfamiliar with Angular concepts,43,64,Skill_Mismatch
+Node.js Backend,Java Spring Security,I lacked authentication knowledge,42,63,Skill_Mismatch
+MongoDB Database,PostgreSQL SQL,I could not answer ACID questions,45,66,Skill_Mismatch
+AWS Cloud Practitioner,Azure Cloud,I was unfamiliar with Azure services,41,62,Skill_Mismatch
+Kubernetes Admin,Docker Swarm,I did not know Swarm orchestration,44,65,Skill_Mismatch
+Terraform Infrastructure,Ansible Config,I lacked Ansible playbook knowledge,43,64,Skill_Mismatch
+Python FastAPI,Java JAX-RS,I was unfamiliar with Java REST APIs,42,63,Skill_Mismatch
+GraphQL API,REST API Design,I could not compare REST vs GraphQL,45,66,Skill_Mismatch
+Redis Caching,Memcached Systems,I lacked Memcached experience,41,62,Skill_Mismatch
+Machine Learning Model,Statistical Analysis,I could not explain p-values,38,55,Weak_Fundamentals
+Deep Learning Framework,ML Mathematics,I struggled with matrix operations,36,53,Weak_Fundamentals
+Data Pipeline,Data Warehousing,I did not understand star schema,37,54,Weak_Fundamentals
+AI Model Training,Optimization Algorithms,I failed to explain SGD variants,35,52,Weak_Fundamentals
+Feature Store,Data Versioning,I was confused about data lineage,34,51,Weak_Fundamentals
+ML Monitoring,Production Systems,I lacked alerting strategy knowledge,39,56,Weak_Fundamentals
+Neural Architecture,Computer Vision,I could not explain attention mechanisms,36,53,Weak_Fundamentals
+Time Series Forecast,Statistical Models,I struggled with stationarity,37,54,Weak_Fundamentals
+Recommendation Engine,Collaborative Filtering,I did not understand SVD,35,52,Weak_Fundamentals
+NLP Model,BERT Architecture,I lacked transformer knowledge,38,55,Weak_Fundamentals
+Data Science Presentation,Business Stakeholders,I was nervous explaining results,68,29,Communication_Issue
+Technical Interview,Code Review,I panicked during live coding,67,28,Communication_Issue
+System Design Interview,Architecture Discussion,I could not explain trade-offs,69,30,Communication_Issue
+Team Lead Interview,Management Questions,I was anxious about leadership examples,70,31,Communication_Issue
+Startup Pitch,Investor Meeting,I struggled with business model explanation,66,27,Communication_Issue
+Conference Talk,Technical Presentation,I could not handle Q&A session,68,29,Communication_Issue
+Client Meeting,Requirements Gathering,I was nervous taking notes,67,28,Communication_Issue
+Workshop Teaching,Student Questions,I lost confidence with advanced questions,69,30,Communication_Issue
+Panel Discussion,Industry Experts,I spoke too quickly,70,31,Communication_Issue
+Technical Writing,Docs Review,I could not explain complex concepts simply,66,27,Communication_Issue
+Open Source Contribution,GitHub Project,I explained only my small contribution,65,58,Project_Depth_Issue
+Research Collaboration,Academic Paper,I lacked depth in literature review,66,59,Project_Depth_Issue
+Hackathon Project,Rapid Prototyping,I could not explain technical debt,64,57,Project_Depth_Issue
+Freelance Project,Client Work,I failed to explain requirements process,67,60,Project_Depth_Issue
+Startup MVP,Product Development,I did not know user feedback integration,65,58,Project_Depth_Issue
+Internship Project,Corporate Environment,I lacked understanding of company processes,66,59,Project_Depth_Issue
+University Thesis,Research Methodology,I could not explain limitations well,64,57,Project_Depth_Issue
+Competition Entry,Judging Criteria,I failed to explain innovation aspects,67,60,Project_Depth_Issue
+Volunteer Tech Project,Non-profit Context,I could not explain impact measurement,65,58,Project_Depth_Issue
+Personal Blog Project,Content Creation,I lacked analytics discussion,66,59,Project_Depth_Issue
+JavaScript Frontend,Java Backend,I did not know Java streams,47,68,Skill_Mismatch
+Python Data Science,C++ Low Latency,I lacked low-level programming knowledge,44,65,Skill_Mismatch
+Ruby on Rails,Python Django,I was unfamiliar with Django ORM,43,64,Skill_Mismatch
+Swift iOS,Kotlin Android,I did not know Android lifecycle,46,67,Skill_Mismatch
+PHP WordPress,JavaScript React,I lacked modern frontend knowledge,42,63,Skill_Mismatch
+Go Microservices,Java Spring Cloud,I was unfamiliar with service mesh,45,66,Skill_Mismatch
+Rust Systems,C++ Performance,I could not explain memory safety,44,65,Skill_Mismatch
+TypeScript Angular,React Hooks,I lacked React functional component knowledge,43,64,Skill_Mismatch
+Scala Functional,Java OOP,I was unfamiliar with monads,46,67,Skill_Mismatch
+Perl Scripting,Python Automation,I did not know Python async,42,63,Skill_Mismatch
+ML Engineering,Software Engineering,I could not explain design patterns,39,56,Weak_Fundamentals
+Data Analysis,Business Intelligence,I struggled with KPI definitions,37,54,Weak_Fundamentals
+AI Ethics,Regulatory Compliance,I did not understand GDPR requirements,38,55,Weak_Fundamentals
+ML Research,Academic Publishing,I failed to explain peer review process,36,53,Weak_Fundamentals
+Data Governance,Data Quality,I lacked data profiling knowledge,40,57,Weak_Fundamentals
+Cloud Cost Optimization,FinOps,I could not explain cost allocation,37,54,Weak_Fundamentals
+DevSecOps,Security Compliance,I struggled with compliance frameworks,39,56,Weak_Fundamentals
+Site Reliability,Monitoring,I did not understand SLO/SLI concepts,38,55,Weak_Fundamentals
+Product Analytics,User Behavior,I failed to explain cohort analysis,36,53,Weak_Fundamentals
+Technical Sales,Solution Architecture,I lacked technical depth in products,40,57,Weak_Fundamentals
+Job Fair Networking,Recruiter Conversations,I was nervous introducing myself,67,28,Communication_Issue
+Salary Negotiation,Comp Discussion,I panicked when discussing numbers,66,27,Communication_Issue
+Behavioral Interview,STAR Method,I could not structure my stories,68,29,Communication_Issue
+Take-home Assignment,Code Submission,I struggled explaining my approach,69,30,Communication_Issue
+Reference Check,Former Colleague,I was anxious about what they'd say,67,28,Communication_Issue
+Portfolio Review,Project Walkthrough,I spoke too fast during demo,66,27,Communication_Issue
+Whiteboard Coding,Algorithm Problem,I lost confidence with complex problem,68,29,Communication_Issue
+Pair Programming,Live Collaboration,I was hesitant with suggestions,69,30,Communication_Issue
+Technical Assessment,Online Test,I could not manage time effectively,67,28,Communication_Issue
+Final Round Interview,Executive Meeting,I was nervous with senior leaders,66,27,Communication_Issue
+Graduation Project,Academic Standards,I explained only implementation,64,57,Project_Depth_Issue
+Bootcamp Capstone,Industry Readiness,I lacked real-world constraints discussion,65,58,Project_Depth_Issue
+Side Business Project,Entrepreneurship,I could not explain business model,66,59,Project_Depth_Issue
+Community Project,Social Impact,I failed to explain sustainability,64,57,Project_Depth_Issue
+Prototype Development,Innovation,I lacked patent considerations,67,60,Project_Depth_Issue
+Legacy System Migration,Modernization,I could not explain risk management,65,58,Project_Depth_Issue
+Cross-platform App,Multi-device Support,I lacked testing strategy discussion,66,59,Project_Depth_Issue
+Accessibility Project,Inclusive Design,I failed to explain WCAG guidelines,64,57,Project_Depth_Issue
+Performance Optimization,Speed Improvement,I could not explain metrics used,67,60,Project_Depth_Issue
+Internationalization Project,Multi-language,I lacked localization challenges,65,58,Project_Depth_Issue
+Python Web Scraping,Java Web Crawler,I did not know Java HTTP clients,44,65,Skill_Mismatch
+Data Visualization D3,Tableau BI,I lacked Tableau experience,43,64,Skill_Mismatch
+MATLAB Scientific,Python Numerical,I was unfamiliar with NumPy,42,63,Skill_Mismatch
+SAS Analytics,R Python,I did not know R programming,45,66,Skill_Mismatch
+Excel Advanced,Python Pandas,I lacked Python data manipulation,41,62,Skill_Mismatch
+Power BI,Looker Analytics,I was unfamiliar with LookML,44,65,Skill_Mismatch
+Qlik Sense,Data Analytics,I lacked Qlik script knowledge,43,64,Skill_Mismatch
+Alteryx Automation,Python ETL,I did not know Python workflow tools,42,63,Skill_Mismatch
+SPSS Statistics,Python Statsmodels,I lacked statistical tests knowledge,45,66,Skill_Mismatch
+Stata Econometrics,R Econometrics,I was unfamiliar with R packages,41,62,Skill_Mismatch
+ML Model Serving,API Development,I could not explain endpoint design,39,56,Weak_Fundamentals
+Data Lake Management,Data Governance,I struggled with data cataloging,37,54,Weak_Fundamentals
+AI Training Pipeline,MLOps,I did not understand experiment tracking,38,55,Weak_Fundamentals
+Model Validation,Statistical Testing,I failed to explain confidence intervals,36,53,Weak_Fundamentals
+Feature Engineering Pipeline,Data Prep,I lacked automated feature generation,40,57,Weak_Fundamentals
+ML Fairness Audit,Bias Detection,I could not explain disparate impact,37,54,Weak_Fundamentals
+Data Annotation,Quality Control,I struggled with annotation guidelines,39,56,Weak_Fundamentals
+ML Explainability,Model Interpretation,I did not understand LIME vs SHAP,38,55,Weak_Fundamentals
+Automated ML,Hyperparameter Optimization,I failed to explain Bayesian optimization,36,53,Weak_Fundamentals
+ML Competitions,Kaggle Experience,I lacked productionization knowledge,40,57,Weak_Fundamentals
+Virtual Interview,Video Conference,I had technical difficulties,67,28,Communication_Issue
+Phone Screen,Initial Screening,I was distracted by environment,66,27,Communication_Issue
+Group Interview,Panel Discussion,I could not address all interviewers,68,29,Communication_Issue
+Case Study Interview,Problem Solving,I struggled with time pressure,69,30,Communication_Issue
+Technical Q&A,Expert Discussion,I was intimidated by expert knowledge,67,28,Communication_Issue
+Culture Fit Interview,Team Dynamics,I could not express my values well,66,27,Communication_Issue
+Stress Interview,Pressure Testing,I panicked under pressure,68,29,Communication_Issue
+Lunch Interview,Informal Setting,I was uncomfortable with casual format,69,30,Communication_Issue
+Follow-up Interview,Additional Round,I lost enthusiasm,67,28,Communication_Issue
+Contract Discussion,Legal Terms,I was nervous about contract details,66,27,Communication_Issue
+Team Project,Collaboration,I explained only my individual work,64,57,Project_Depth_Issue
+Agile Project,Scrum Methodology,I lacked sprint retrospective discussion,65,58,Project_Depth_Issue
+Waterfall Project,Planning Phase,I could not explain requirements gathering,66,59,Project_Depth_Issue
+CI/CD Pipeline,Automation,I failed to explain rollback strategy,64,57,Project_Depth_Issue
+Testing Framework,Quality Assurance,I lacked test coverage discussion,67,60,Project_Depth_Issue
+Documentation Project,Knowledge Base,I could not explain information architecture,65,58,Project_Depth_Issue
+Migration Project,Data Transfer,I lacked data validation discussion,66,59,Project_Depth_Issue
+Integration Project,API Connectivity,I failed to explain error handling,64,57,Project_Depth_Issue
+Upgrade Project,Version Migration,I could not explain compatibility testing,67,60,Project_Depth_Issue
+Consolidation Project,System Merging,I lacked redundancy discussion,65,58,Project_Depth_Issue
+C# .NET Development,Java Enterprise,I was unfamiliar with J2EE patterns,44,65,Skill_Mismatch
+Objective-C Legacy,Swift Modern,I lacked SwiftUI knowledge,43,64,Skill_Mismatch
+VB.NET Windows,Web Development,I did not know modern web frameworks,42,63,Skill_Mismatch
+Delphi Desktop,Cross-platform,I was unfamiliar with Electron,45,66,Skill_Mismatch
+COBOL Mainframe,Cloud Native,I lacked cloud native concepts,41,62,Skill_Mismatch
+Fortran Scientific,Python Scientific,I did not know SciPy library,44,65,Skill_Mismatch
+Assembly Low-level,High-level Languages,I lacked abstraction concepts,43,64,Skill_Mismatch
+Lisp AI,Python AI,I was unfamiliar with modern AI libraries,42,63,Skill_Mismatch
+Prolog Logic,Python Logic,I did not know logical programming in Python,45,66,Skill_Mismatch
+Ada Safety-critical,General Programming,I lacked general software practices,41,62,Skill_Mismatch
+ML Mathematics,Linear Algebra,I could not explain eigenvectors,39,56,Weak_Fundamentals
+Probability Theory,Statistics,I struggled with Bayesian inference,37,54,Weak_Fundamentals
+Calculus Concepts,ML Optimization,I did not understand gradients,38,55,Weak_Fundamentals
+Information Theory,Data Compression,I failed to explain entropy,36,53,Weak_Fundamentals
+Game Theory,AI Agents,I lacked Nash equilibrium understanding,40,57,Weak_Fundamentals
+Graph Theory,Network Analysis,I could not explain graph algorithms,37,54,Weak_Fundamentals
+Optimization Theory,Convex Optimization,I struggled with convexity,39,56,Weak_Fundamentals
+Numerical Methods,Stability Analysis,I did not understand numerical stability,38,55,Weak_Fundamentals
+Signal Processing,Time Series,I failed to explain Fourier transform,36,53,Weak_Fundamentals
+Control Theory,Reinforcement Learning,I lacked dynamical systems knowledge,40,57,Weak_Fundamentals
+Presentation Skills,Public Speaking,I was nervous with large audience,67,28,Communication_Issue
+Writing Skills,Technical Documentation,I struggled with clear writing,66,27,Communication_Issue
+Listening Skills,Requirements Understanding,I could not paraphrase correctly,68,29,Communication_Issue
+Questioning Skills,Clarification,I asked unclear questions,69,30,Communication_Issue
+Feedback Reception,Constructive Criticism,I was defensive,67,28,Communication_Issue
+Conflict Resolution,Team Disagreements,I avoided difficult conversations,66,27,Communication_Issue
+Persuasion Skills,Influence,I could not build strong arguments,68,29,Communication_Issue
+Adaptability,Changing Requirements,I resisted changes,69,30,Communication_Issue
+Empathy,User Centricity,I failed to understand user perspective,67,28,Communication_Issue
+Clarity,Simplification,I overcomplicated explanations,66,27,Communication_Issue
+MVP Development,Lean Startup,I explained only minimum features,64,57,Project_Depth_Issue
+Proof of Concept,Feasibility Study,I lacked scalability discussion,65,58,Project_Depth_Issue
+Alpha Release,Early Testing,I could not explain feedback incorporation,66,59,Project_Depth_Issue
+Beta Testing,User Feedback,I failed to explain bug triage,64,57,Project_Depth_Issue
+Launch Preparation,Go-to-market,I lacked marketing integration,67,60,Project_Depth_Issue
+Post-launch Analysis,Performance Review,I could not explain metrics tracking,65,58,Project_Depth_Issue
+Maintenance Phase,Long-term Support,I lacked technical debt management,66,59,Project_Depth_Issue
+End-of-life,Sunsetting,I failed to explain migration strategy,64,57,Project_Depth_Issue
+Iteration Planning,Continuous Improvement,I could not explain prioritization,67,60,Project_Depth_Issue
+Retrospective Analysis,Lessons Learned,I lacked actionable insights,65,58,Project_Depth_Issue
+Python Asyncio,Java Concurrency,I did not know Java threads,44,65,Skill_Mismatch
+Graph Database Neo4j,SQL Database,I lacked relational database knowledge,43,64,Skill_Mismatch
+Blockchain Solidity,Traditional Backend,I was unfamiliar with conventional systems,42,63,Skill_Mismatch
+Quantum Computing Q#,Classical Programming,I lacked classical algorithms,45,66,Skill_Mismatch
+AR Development,2D Applications,I did not know 2D graphics,41,62,Skill_Mismatch
+VR Development,Web Development,I was unfamiliar with web technologies,44,65,Skill_Mismatch
+IoT Embedded C,Web APIs,I lacked REST API knowledge,43,64,Skill_Mismatch
+Robotics ROS,Software Development,I did not know standard dev practices,42,63,Skill_Mismatch
+Bioinformatics Python,General Programming,I lacked general CS knowledge,45,66,Skill_Mismatch
+Geospatial Analysis,General Data Analysis,I was unfamiliar with non-spatial data,41,62,Skill_Mismatch
+ML Interpretability,Model Debugging,I could not explain debugging techniques,39,56,Weak_Fundamentals
+Data Versioning,Code Versioning,I struggled with DVC concepts,37,54,Weak_Fundamentals
+Experiment Tracking,Reproducibility,I did not understand MLflow,38,55,Weak_Fundamentals
+Model Registry,Deployment Management,I failed to explain version control,36,53,Weak_Fundamentals
+Feature Store Management,Data Management,I lacked data quality concepts,40,57,Weak_Fundamentals
+ML Pipeline Orchestration,Workflow Management,I could not explain Airflow/Dagster,37,54,Weak_Fundamentals
+Model Monitoring,Alerting Systems,I struggled with threshold setting,39,56,Weak_Fundamentals
+Data Drift Detection,Statistical Process Control,I did not understand control charts,38,55,Weak_Fundamentals
+Concept Drift,Model Retraining,I failed to explain retraining strategies,36,53,Weak_Fundamentals
+A/B Testing Platform,Statistical Design,I lacked experimental design knowledge,40,57,Weak_Fundamentals
+Interview Preparation,Mock Interviews,I was nervous even in practice,67,28,Communication_Issue
+Resume Review,Career Coach,I struggled explaining my experiences,66,27,Communication_Issue
+LinkedIn Profile,Professional Branding,I could not articulate my value,68,29,Communication_Issue
+Networking Event,Industry Contacts,I was awkward in conversations,69,30,Communication_Issue
+Career Fair,Booth Conversations,I lost confidence quickly,67,28,Communication_Issue
+Informational Interview,Learning Opportunity,I asked poor questions,66,27,Communication_Issue
+Follow-up Email,Professional Communication,I wrote unclear messages,68,29,Communication_Issue
+Thank You Note,Etiquette,I was unsure what to write,69,30,Communication_Issue
+Salary Research,Market Analysis,I could not discuss compensation ranges,67,28,Communication_Issue
+Job Search Strategy,Planning,I struggled articulating my goals,66,27,Communication_Issue
+Capstone Project,Academic Evaluation,I explained only technical aspects,64,57,Project_Depth_Issue
+Thesis Defense,Academic Review,I lacked critical analysis,65,58,Project_Depth_Issue
+Research Proposal,Grant Application,I could not explain broader impacts,66,59,Project_Depth_Issue
+Literature Review,State of Art,I failed to explain knowledge gaps,64,57,Project_Depth_Issue
+Methodology Section,Research Design,I lacked alternative method discussion,67,60,Project_Depth_Issue
+Results Analysis,Findings Interpretation,I could not explain implications,65,58,Project_Depth_
