@@ -1,0 +1,5 @@
+Add to Resume:
+
+AI Interview Failure Analyzer -
+Built and deployed an end-to-end ML-powered web application to analyze interview failures using resume–JD similarity, skill gap detection, and explainable ML. Implemented authentication, history tracking, PDF report generation, and deployed the system on Streamlit Cloud.
+

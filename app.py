@@ -28,6 +28,19 @@ if "user_email" not in st.session_state:
 if "show_auth" not in st.session_state:
     st.session_state.show_auth = False
 
+# Initialize input states
+if "resume_text" not in st.session_state:
+    st.session_state.resume_text = ""
+
+if "jd_text" not in st.session_state:
+    st.session_state.jd_text = ""
+
+if "self_reflection" not in st.session_state:
+    st.session_state.self_reflection = ""
+
+if "file_uploader_key" not in st.session_state:
+    st.session_state.file_uploader_key = 0
+
 # ---------------- TOP BAR ----------------
 top = st.columns([7, 2])
 
@@ -49,7 +62,9 @@ if st.session_state.show_auth and not st.session_state.logged_in:
         password = st.text_input("Password", type="password", key="login_pass")
 
         if st.button("Login"):
-            if login(email, password):
+            if not email or not password:
+                st.error("Please enter both email and password")
+            elif login(email, password):
                 st.session_state.logged_in = True
                 st.session_state.user_email = email
                 st.session_state.show_auth = False
@@ -64,14 +79,16 @@ if st.session_state.show_auth and not st.session_state.logged_in:
         confirm = st.text_input("Confirm Password", type="password")
 
         if st.button("Create Account"):
-            if new_password != confirm:
-                st.error("Passwords do not match")
+            if not new_email or not new_password or not confirm:
+                    st.error("Please fill in all fields")
+            elif new_password != confirm:
+                    st.error("Passwords do not match")
             else:
-                success, msg = signup(new_email, new_password)
-                if success:
-                    st.success("Account created. Please login.")
+                signup_success, msg = signup(new_email, new_password)
+                if signup_success:
+                      st.success("Account created. Please login.")
                 else:
-                    st.error(msg)
+                     st.error(msg)
 
     st.divider()
 
@@ -125,17 +142,30 @@ st.divider()
 
 # ---------------- 🔄 REFRESH BUTTON (ADDED) ----------------
 if st.button("🔄 New Entry / Refresh Inputs"):
+    # Clear text area widget states
     st.session_state.resume_text = ""
     st.session_state.jd_text = ""
     st.session_state.self_reflection = ""
-    st.session_state.pop("uploaded_pdf", None)
-    st.rerun()
 
+    st.session_state.resume_text_input = ""
+    st.session_state.jd_text_input = ""
+    st.session_state.self_reflection_input = ""
+
+    # Reset file uploader
+    st.session_state.file_uploader_key += 1
+
+    st.rerun()
 # ---------------- SAMPLE INPUT ----------------
 if st.button("📄 Load Example Input"):
     st.session_state.resume_text = "I know Python, pandas and basic ML."
     st.session_state.jd_text = "Looking for ML engineer with Python, TensorFlow, SQL."
     st.session_state.self_reflection = "I struggled to explain deep learning."
+    
+    # Also set the text area widget values
+    st.session_state.resume_text_input = "I know Python, pandas and basic ML."
+    st.session_state.jd_text_input = "Looking for ML engineer with Python, TensorFlow, SQL."
+    st.session_state.self_reflection_input = "I struggled to explain deep learning."
+    st.rerun()
 
 # ---------------- INPUT SECTION ----------------
 disabled = not st.session_state.logged_in
@@ -145,40 +175,47 @@ col1, col2 = st.columns(2)
 with col1:
     st.subheader("📄 Resume")
 
+    # Use dynamic key for file uploader
     pdf_file = st.file_uploader(
         "Upload Resume (PDF)",
         type=["pdf"],
         disabled=disabled,
-        key="uploaded_pdf"
+        key=f"uploaded_pdf_{st.session_state.file_uploader_key}"
     )
 
     resume_text = ""
     if pdf_file:
         reader = PdfReader(pdf_file)
         resume_text = " ".join([page.extract_text() or "" for page in reader.pages])
+        # If user uploads a new PDF, update the resume text
+        if resume_text:
+            st.session_state.resume_text = resume_text
 
     resume_text = st.text_area(
         "Paste Resume Text",
-        value=st.session_state.get("resume_text", resume_text),
+        value=st.session_state.resume_text,
         height=220,
-        disabled=disabled
+        disabled=disabled,
+        key="resume_text_input"
     )
 
 with col2:
     st.subheader("📌 Job Description")
     jd_text = st.text_area(
         "Paste Job Description",
-        value=st.session_state.get("jd_text", ""),
+        value=st.session_state.jd_text,
         height=220,
-        disabled=disabled
+        disabled=disabled,
+        key="jd_text_input"
     )
 
 st.subheader("🧠 Self Reflection (Optional)")
 self_reflection = st.text_area(
     "Interview experience",
-    value=st.session_state.get("self_reflection", ""),
+    value=st.session_state.self_reflection,
     height=120,
-    disabled=disabled
+    disabled=disabled,
+    key="self_reflection_input"
 )
 
 # ---------------- ANALYZE ----------------
@@ -303,3 +340,7 @@ if st.button("🔍 Analyze Interview", use_container_width=True):
 # ---------------- FOOTER ----------------
 st.divider()
 st.markdown("<p style='text-align:center;'>Built with ❤️ using Machine Learning & Streamlit</p>", unsafe_allow_html=True)
+st.markdown(
+    "<p style='text-align:center;'>© 2025 Sourav Das. All rights reserved.</p>",
+    unsafe_allow_html=True
+)
