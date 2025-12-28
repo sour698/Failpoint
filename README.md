@@ -8,7 +8,7 @@ An AI-powered web application that analyzes interview failures by comparing a ca
 
 🚀 Live Demo: 
 
-https://failpoint-eluxwmwgkg2gqmbb7qgrzh.streamlit.app/
+https://failpoint-7vwtd5kmtznu6ocjzrggg3.streamlit.app/
 
 
 
