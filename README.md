@@ -294,16 +294,17 @@ Interview question recommendations
 
 👤 Author
 
-
-
 Sourav Das
 
 AI \& ML Enthusiast
 
 
+📜 License
+
+© 2025 Sourav Das. All rights reserved.
+
 
 ❤️ Acknowledgements
-
 
 
 Built using Streamlit and Scikit-learn with explainable AI principles."# Failpoint" 
